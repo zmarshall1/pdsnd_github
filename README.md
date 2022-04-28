@@ -1,8 +1,6 @@
 ### Exploring US Bike Share Data
 A Python project using pandas to explore bikeshare data. 
 
-
-
 ### Date created
 04/04/22
 ### Project Title
